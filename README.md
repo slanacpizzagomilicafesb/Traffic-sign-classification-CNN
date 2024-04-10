@@ -1,2 +1,2 @@
 # Traffic-sign-classification-CNN
-A CNN for classifying various traffic signs
+This project was made as a part of Računska inteligencija (Neuro-Fuzzy-Računski Sustavi) and Napredne Arhitekture Računala courses by two of my colleagues and me. The goal of an CNN (Convolutional Neural Network) was to classify input data (pictures) into one of 132 classes. CNN was trained in Google Colab, and code was written in Python using Keras and Tensorflow.
